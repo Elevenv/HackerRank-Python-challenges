@@ -1,3 +1,10 @@
+# You are given a 2-D array of size N*M.
+# Your task is to find:
+
+# The mean along axis 
+# The var along axis 
+# The std along axis 
+
 import numpy as np
 r,c = map(int,input().split())
 matrix = []
